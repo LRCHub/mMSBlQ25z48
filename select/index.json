@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君と目があったとき",
+  "base_artist": "FRUITS ZIPPER",
+  "createdAt": "2026-02-07T07:22:55.739283Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君と目があったとき",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": false,
+      "path": "select/pl_01_君と目があったとき_FRUITS_ZIPPER.txt"
+    }
+  ]
+}
